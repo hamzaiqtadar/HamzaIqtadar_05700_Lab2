@@ -1,0 +1,21 @@
+.heading{
+text-align:center;
+text-color:#ffffff;
+font-style:normal;
+font-weight:bold;
+font-family:calibri
+}
+body {
+background-color:#D1D0CE
+}
+.options div{
+display:none
+}
+.options div:target
+{
+display: block
+}
+.options{
+padding-top:15px;
+padding-bottom:10px;
+background-color:#25383C}
